@@ -1,0 +1,5 @@
+package com.shen.store.api.member.service;
+
+public class DashboardService {
+
+}
